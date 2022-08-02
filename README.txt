@@ -31,4 +31,4 @@ data("TCGA.BRCA")
 TCGA.BRCA.NETI2= NETI2(TCGA.BRCA$X,TCGA.BRCA$purity, lambda = 0.6, tau = 0.4,delta = 0.2)
 
 
-Please do not hesitate to contact Dr. Xiao-Fei Zhang (zhangxf@mail.ccnu.edu.cn) or Miss Jia-Juan Tu (adaline_juan@mail.ccnu.edu.cn) to seek any clarifications regarding any  contents or operation of the archive.
+Please do not hesitate to contact Dr. Xiao-Fei Zhang (zhangxf@mail.ccnu.edu.cn) or Miss Jia-Juan Tu (adaline_juan@mails.ccnu.edu.cn) to seek any clarifications regarding any  contents or operation of the archive.
